@@ -1,0 +1,25 @@
+{
+  "puzzles": [
+    {
+      "id": "t_001",
+      "initial_fen": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 1",
+      "solution_moves": ["Bxf7+", "Kxf7", "Ne5+", "Kg8", "Nxc6"],
+      "puzzle_type": "Тактическая задача",
+      "description": "Вилка. Белые выигрывают материал."
+    },
+    {
+      "id": "t_002",
+      "initial_fen": "r3kb1r/ppp1pppp/8/1B6/3n4/2q5/PPPPNPPP/R1BQ1RK1 w kq - 0 1",
+      "solution_moves": ["Bxd7+", "Kxd7", "Qxd4", "Kc8", "Qxc3"],
+      "puzzle_type": "Тактическая задача",
+      "description": "Двойной удар. Белые выигрывают материал."
+    },
+    {
+      "id": "t_003",
+      "initial_fen": "r1bqkb1r/ppp1pppp/2n5/3n4/3P4/2N5/PPP1NPPP/R1BQKB1R w KQkq - 0 1",
+      "solution_moves": ["Nxd5", "Qxd5", "Nc3", "Qd8", "Nxe4"],
+      "puzzle_type": "Тактическая задача",
+      "description": "Связка. Белые выигрывают пешку."
+    }
+  ]
+} 

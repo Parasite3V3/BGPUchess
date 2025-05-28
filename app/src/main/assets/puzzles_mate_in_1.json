@@ -1,0 +1,39 @@
+{
+  "puzzles": [
+    {
+      "id": "m1_001",
+      "initial_fen": "6k1/6p1/8/7Q/8/8/8/6K1 w - - 0 1",
+      "solution_moves": ["Qxg7"],
+      "puzzle_type": "Мат в 1 ход",
+      "description": "Мат ферзём: Qxg7#"
+    },
+    {
+      "id": "m1_002",
+      "initial_fen": "7k/5Rpp/8/8/8/8/8/6K1 w - - 0 1",
+      "solution_moves": ["Rxg7"],
+      "puzzle_type": "Мат в 1 ход",
+      "description": "Мат ладьёй: Rxg7#"
+    },
+    {
+      "id": "m1_003",
+      "initial_fen": "6k1/5p2/8/8/2B5/8/8/6K1 w - - 0 1",
+      "solution_moves": ["Bxf7"],
+      "puzzle_type": "Мат в 1 ход",
+      "description": "Мат слоном: Bxf7#"
+    },
+    {
+      "id": "m1_004",
+      "initial_fen": "7k/6p1/5N2/8/8/8/8/6K1 w - - 0 1",
+      "solution_moves": ["Ng8"],
+      "puzzle_type": "Мат в 1 ход",
+      "description": "Мат конём: Ng8#"
+    },
+    {
+      "id": "m1_005",
+      "initial_fen": "7k/7p/6P1/8/8/8/8/6K1 w - - 0 1",
+      "solution_moves": ["g7"],
+      "puzzle_type": "Мат в 1 ход",
+      "description": "Мат пешкой: продвижение g7 с превращением в ферзя и матом"
+    }
+  ]
+} 

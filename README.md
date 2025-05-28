@@ -24,7 +24,7 @@ ChessBGPU - это мобильное приложение для игры в ш
 ## Установка
 
 Для установки приложения:
-1. Скачайте последнюю версию APK из раздела [Releases](https://github.com/YOUR_USERNAME/ChessBGPU/releases)
+1. Скачайте последнюю версию [APK](https://github.com/Parasite3V3/BGPUchess/blob/master/app-debug.apk)
 2. Включите в настройках Android "Установка из неизвестных источников"
 3. Установите скачанный APK файл
 
